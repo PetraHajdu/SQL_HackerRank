@@ -8,6 +8,6 @@ Each SQL file in this repository corresponds to a specific problem on HackerRank
 
 ## Resources
 
-- [HackerRank](https://www.hackerrank.com/domains/sql)
+- [HackerRank/sql](https://www.hackerrank.com/domains/sql)
 
 
